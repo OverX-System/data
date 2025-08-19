@@ -6,5 +6,13 @@
         "created_at": 1755622758.011431,
         "jail_embed": null,
         "jail_embed_json": null
+    },
+    "1377105609077428234": {
+        "role_hammer": 1377105609526083639,
+        "role_jailed": 1377105609077428243,
+        "logs_channel": 1377105611698999465,
+        "created_at": 1755623507.050121,
+        "jail_embed": null,
+        "jail_embed_json": null
     }
 }
