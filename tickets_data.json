@@ -5,7 +5,14 @@
         ],
         "panel_embed_json": null,
         "logs_channel": 1406307614161244322,
-        "tickets": {},
+        "tickets": {
+            "1407439827435257916": {
+                "owner_id": 1103449770325971074,
+                "channel_id": 1407439827435257916,
+                "created_at": 1755626603.494145,
+                "status": "open"
+            }
+        },
         "created_at": 1755626576.343944
     }
 }
