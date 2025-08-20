@@ -1,0 +1,1646 @@
+{
+    "1398769551738409131": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769551738409131,
+        "name": "\ud83d\udcca\ufe31Server stats",
+        "type": "category",
+        "category_id": null,
+        "position": 0,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958029284929,
+                "deny": 620529091508496
+            }
+        }
+    },
+    "1398769551738409134": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769551738409134,
+        "name": "\ud83d\udccc\ufe31hub",
+        "type": "category",
+        "category_id": null,
+        "position": 3,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1126589285123649,
+                "deny": 57579138066448
+            }
+        }
+    },
+    "1398769552229138565": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138565,
+        "name": "\ud83c\udf10\ufe31general",
+        "type": "category",
+        "category_id": null,
+        "position": 7,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030349889,
+                "deny": 620529119803664
+            },
+            "role-1398769550014812273": {
+                "allow": 1196957993782337,
+                "deny": 580946696876048
+            }
+        }
+    },
+    "1398769552229138571": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138571,
+        "name": "\ud83d\udcac\ufe31global",
+        "type": "category",
+        "category_id": null,
+        "position": 13,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 71058123509569,
+                "deny": 1746428997283856
+            }
+        }
+    },
+    "1398769552510418956": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418956,
+        "name": "\ud83d\udccc\ufe31support",
+        "type": "category",
+        "category_id": null,
+        "position": 17,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 137476032065,
+                "deny": 1817349644761360
+            }
+        }
+    },
+    "1398769552510418962": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418962,
+        "name": "\ud83c\udfc5\ufe31tournaments",
+        "type": "category",
+        "category_id": null,
+        "position": 23,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030351937,
+                "deny": 620529090441488
+            }
+        }
+    },
+    "1398769552728264977": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552728264977,
+        "name": "\ud83d\udca4\ufe31 off",
+        "type": "category",
+        "category_id": null,
+        "position": 28,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1126451844810497,
+                "deny": 57184002115600
+            }
+        }
+    },
+    "1407056505466916915": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056505466916915,
+        "name": "Logs",
+        "type": "category",
+        "category_id": null,
+        "position": 29,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1398769551738409135": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769551738409135,
+        "name": "\ud83d\udc4b\ufe31welcome",
+        "type": "text",
+        "category_id": 1398769551738409134,
+        "position": 4,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1126589285123649,
+                "deny": 57579138066448
+            }
+        }
+    },
+    "1398769551738409136": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769551738409136,
+        "name": "\ud83d\udce8\ufe31invite",
+        "type": "text",
+        "category_id": 1398769551738409134,
+        "position": 5,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1126589285123649,
+                "deny": 57579138066448
+            }
+        }
+    },
+    "1398769552229138564": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138564,
+        "name": "\ud83d\udccc\ufe31select-language",
+        "type": "text",
+        "category_id": 1398769551738409134,
+        "position": 6,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1126589285123649,
+                "deny": 57579138066448
+            }
+        }
+    },
+    "1398769552229138566": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138566,
+        "name": "\ud83d\udce2\ufe31announcements",
+        "type": "text",
+        "category_id": 1398769552229138565,
+        "position": 8,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030349889,
+                "deny": 620529119803664
+            },
+            "role-1398769550014812273": {
+                "allow": 1196957993782337,
+                "deny": 580946696876048
+            }
+        }
+    },
+    "1398769552229138567": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138567,
+        "name": "\ud83d\udd27\ufe31changelog",
+        "type": "text",
+        "category_id": 1398769552229138565,
+        "position": 9,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030349889,
+                "deny": 620529119803664
+            },
+            "role-1398769550014812273": {
+                "allow": 1196957993782337,
+                "deny": 580946696876048
+            }
+        }
+    },
+    "1398769552229138568": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138568,
+        "name": "\ud83d\udcd1\ufe31rules",
+        "type": "text",
+        "category_id": 1398769552229138565,
+        "position": 10,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030349889,
+                "deny": 620529119803664
+            },
+            "role-1398769550014812273": {
+                "allow": 1196957993782337,
+                "deny": 580946696876048
+            }
+        }
+    },
+    "1398769552229138569": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138569,
+        "name": "\ud83d\udd17\ufe31ip",
+        "type": "text",
+        "category_id": 1398769552229138565,
+        "position": 11,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030349889,
+                "deny": 620529119803664
+            },
+            "role-1398769550014812273": {
+                "allow": 1196957993782337,
+                "deny": 580946696876048
+            }
+        }
+    },
+    "1398769552229138570": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138570,
+        "name": "\ud83d\udd0e\ufe31booster",
+        "type": "text",
+        "category_id": 1398769552229138565,
+        "position": 12,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030349889,
+                "deny": 620529119803664
+            },
+            "role-1398769550014812273": {
+                "allow": 1196957993782337,
+                "deny": 580946696876048
+            }
+        }
+    },
+    "1398769552229138572": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138572,
+        "name": "\ud83d\udcad\ufe31chat",
+        "type": "text",
+        "category_id": 1398769552229138571,
+        "position": 14,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 71058123509569,
+                "deny": 1746428997283856
+            }
+        }
+    },
+    "1398769552229138573": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552229138573,
+        "name": "\ud83d\udcbb\ufe31commands",
+        "type": "text",
+        "category_id": 1398769552229138571,
+        "position": 15,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 71058123509569,
+                "deny": 1746428997283856
+            }
+        }
+    },
+    "1398769552510418955": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418955,
+        "name": "\ud83c\udfa5\ufe31montage-clips",
+        "type": "text",
+        "category_id": 1398769552229138571,
+        "position": 16,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 71058123509569,
+                "deny": 1746428997283856
+            }
+        }
+    },
+    "1398769552510418957": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418957,
+        "name": "\ud83c\udfab\ufe31ticket",
+        "type": "text",
+        "category_id": 1398769552510418956,
+        "position": 18,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 137476032065,
+                "deny": 1817349644761360
+            }
+        }
+    },
+    "1398769552510418958": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418958,
+        "name": "\u274c\ufe31ban",
+        "type": "text",
+        "category_id": 1398769552510418956,
+        "position": 19,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 137476032065,
+                "deny": 1817349644761360
+            }
+        }
+    },
+    "1398769552510418959": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418959,
+        "name": "\u274c\ufe31warn",
+        "type": "text",
+        "category_id": 1398769552510418956,
+        "position": 20,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 137476032065,
+                "deny": 1817349644761360
+            }
+        }
+    },
+    "1398769552510418960": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418960,
+        "name": "\u26d4\ufe31blacklist",
+        "type": "text",
+        "category_id": 1398769552510418956,
+        "position": 21,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 137476032065,
+                "deny": 1817349644761360
+            }
+        }
+    },
+    "1398769552510418961": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418961,
+        "name": "\u2b55\ufe31kick-anticheat",
+        "type": "text",
+        "category_id": 1398769552510418956,
+        "position": 22,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 137476032065,
+                "deny": 1817349644761360
+            }
+        }
+    },
+    "1407056511158587453": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056511158587453,
+        "name": "ban",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 23,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056514220429484": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056514220429484,
+        "name": "unban",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 24,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056517450043492": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056517450043492,
+        "name": "kick",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 25,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056520234926130": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056520234926130,
+        "name": "join",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 26,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056522919411793": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056522919411793,
+        "name": "leave",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 27,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056526312472677": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056526312472677,
+        "name": "mute",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 28,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056529693212672": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056529693212672,
+        "name": "unmute",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 29,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056532348338269": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056532348338269,
+        "name": "deafen",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 30,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056535472963616": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056535472963616,
+        "name": "undeafen",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 31,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056538346061884": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056538346061884,
+        "name": "moveabuse",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 32,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056540795404428": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056540795404428,
+        "name": "voicejoin",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 33,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056543773491380": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056543773491380,
+        "name": "voicedisconnect",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 34,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056546667429938": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056546667429938,
+        "name": "messageedit",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 35,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056549293195354": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056549293195354,
+        "name": "messagedelete",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 36,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056552573014027": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056552573014027,
+        "name": "addbots",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 37,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056555819401219": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056555819401219,
+        "name": "channelcreate",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 38,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056559745273983": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056559745273983,
+        "name": "channeldelete",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 39,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056564354814033": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056564354814033,
+        "name": "rolecreate",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 40,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056567328702554": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056567328702554,
+        "name": "roledelete",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 41,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056569912529007": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056569912529007,
+        "name": "roleedit",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 42,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056572873441310": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056572873441310,
+        "name": "leavebots",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 43,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056575503536129": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056575503536129,
+        "name": "nicknameupdate",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 44,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056578296676424": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056578296676424,
+        "name": "giverole",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 45,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056581400465542": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056581400465542,
+        "name": "removerole",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 46,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056585276133467": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056585276133467,
+        "name": "invitemembers",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 47,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056588312805436": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056588312805436,
+        "name": "invitecreate",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 48,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056591039103027": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056591039103027,
+        "name": "timeoutlogs",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 49,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056593425662014": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056593425662014,
+        "name": "roomedit",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 50,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1407056597833875567": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1407056597833875567,
+        "name": "channeledit",
+        "type": "text",
+        "category_id": 1407056505466916915,
+        "position": 51,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": null,
+        "user_limit": null,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 0,
+                "deny": 1024
+            },
+            "role-1407056446926884938": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "member-1125456177820610670": {
+                "allow": 19472,
+                "deny": 0
+            },
+            "role-1398769550014812274": {
+                "allow": 1024,
+                "deny": 0
+            },
+            "role-1398769550014812275": {
+                "allow": 1024,
+                "deny": 0
+            }
+        }
+    },
+    "1398769551738409132": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769551738409132,
+        "name": "\ud83c\udfee\u30fbAll Members: 113",
+        "type": "voice",
+        "category_id": 1398769551738409131,
+        "position": 1,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": 64000,
+        "user_limit": 0,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958029284929,
+                "deny": 620529091508496
+            }
+        }
+    },
+    "1398769551738409133": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769551738409133,
+        "name": "\ud83d\udc79\u30fbDiscord.gg/\ud835\udc75\ud835\udc91\ud835\udc95",
+        "type": "voice",
+        "category_id": 1398769551738409131,
+        "position": 2,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": 64000,
+        "user_limit": 0,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958029284929,
+                "deny": 620529091508496
+            }
+        }
+    },
+    "1398769552510418963": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418963,
+        "name": "\ud83c\udf10\ufe31voice #1",
+        "type": "voice",
+        "category_id": 1398769552510418962,
+        "position": 24,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": 64000,
+        "user_limit": 99,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030351937,
+                "deny": 620529090441488
+            }
+        }
+    },
+    "1398769552510418964": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552510418964,
+        "name": "\ud83c\udf10\ufe31voice #2",
+        "type": "voice",
+        "category_id": 1398769552510418962,
+        "position": 25,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": 64000,
+        "user_limit": 8,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030351937,
+                "deny": 620529090441488
+            }
+        }
+    },
+    "1398769552728264975": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552728264975,
+        "name": "\ud83c\udf10\ufe31voice #3",
+        "type": "voice",
+        "category_id": 1398769552510418962,
+        "position": 26,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": 64000,
+        "user_limit": 4,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030351937,
+                "deny": 620529090441488
+            }
+        }
+    },
+    "1398769552728264976": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552728264976,
+        "name": "\ud83c\udf10\ufe31voice #4",
+        "type": "voice",
+        "category_id": 1398769552510418962,
+        "position": 27,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": 64000,
+        "user_limit": 2,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1196958030351937,
+                "deny": 620529090441488
+            }
+        }
+    },
+    "1398769552728264978": {
+        "guild_id": 1398769549997899906,
+        "channel_id": 1398769552728264978,
+        "name": "\ud83d\ude34\ufe31AFK",
+        "type": "voice",
+        "category_id": 1398769552728264977,
+        "position": 29,
+        "topic": null,
+        "nsfw": false,
+        "slowmode_delay": 0,
+        "bitrate": 64000,
+        "user_limit": 0,
+        "overwrites": {
+            "role-1398769549997899906": {
+                "allow": 1126451844810497,
+                "deny": 57184002115600
+            }
+        }
+    }
+}
