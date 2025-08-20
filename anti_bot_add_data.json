@@ -1,0 +1,9 @@
+{
+    "1377105609077428234": {
+        "enabled": true,
+        "bot_whitelist": [],
+        "user_whitelist": [],
+        "log_channel_id": null,
+        "punish_inviter": "kick"
+    }
+}
