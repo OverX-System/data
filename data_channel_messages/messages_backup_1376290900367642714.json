@@ -165,6 +165,26 @@
             "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
             "is_bot": true,
             "content": "",
+            "created_at": "2025-08-22T00:34:46.495000+00:00",
+            "is_webhook": false,
+            "attachments": [],
+            "embeds": [
+                {
+                    "flags": 0,
+                    "color": 3066993,
+                    "timestamp": "2025-08-22T00:34:45.510000+00:00",
+                    "type": "rich",
+                    "description": "Channel: <#1408247994083446784>\nType: Text\nID: `1408247994083446784`\nCategory: Text Channels",
+                    "title": "\ud83d\udce2 Channel Created"
+                }
+            ]
+        },
+        {
+            "author_id": 1125456177820610670,
+            "author_name": "XXXX#5063",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
+            "is_bot": true,
+            "content": "",
             "created_at": "2025-08-22T00:30:48.603000+00:00",
             "is_webhook": false,
             "attachments": [],
@@ -235,26 +255,6 @@
                     "timestamp": "2025-08-19T19:24:55.642000+00:00",
                     "type": "rich",
                     "description": "Channel: <#1407445246802923650>\nType: Category\nID: `1407445246802923650`\nCategory: None",
-                    "title": "\ud83d\udce2 Channel Created"
-                }
-            ]
-        },
-        {
-            "author_id": 1125456177820610670,
-            "author_name": "XXXX#5063",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
-            "is_bot": true,
-            "content": "",
-            "created_at": "2025-08-19T19:22:52.313000+00:00",
-            "is_webhook": false,
-            "attachments": [],
-            "embeds": [
-                {
-                    "flags": 0,
-                    "color": 3066993,
-                    "timestamp": "2025-08-19T19:22:51.201000+00:00",
-                    "type": "rich",
-                    "description": "Channel: <#1407444725014859897>\nType: Voice\nID: `1407444725014859897`\nCategory: \ud80c\udc83 \u08ea\u02d6\ufe55\ud83c\udf7b\u30fbonetap",
                     "title": "\ud83d\udce2 Channel Created"
                 }
             ]
@@ -511,158 +511,6 @@
                     "type": "rich",
                     "description": "Member: <@1125456177820610670> (`1125456177820610670`)\nRoles: <@&1383178290533105784>",
                     "title": "\u2795 Roles Added"
-                }
-            ]
-        }
-    ],
-    "1398473613002145905": [
-        {
-            "author_id": 1125456177820610670,
-            "author_name": "XXXX#5063",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
-            "is_bot": true,
-            "content": "",
-            "created_at": "2025-08-22T00:34:45.826000+00:00",
-            "is_webhook": false,
-            "attachments": [],
-            "embeds": [
-                {
-                    "thumbnail": {
-                        "url": "https://cdn.discordapp.com/avatars/1316382635643375636/05c9ed7ca2a2966230e2ae46aaad28f1.png?size=1024",
-                        "proxy_url": "https://images-ext-1.discordapp.net/external/kSk_D_Nkp9fQJMUXJY9x_nO5SAZPreVCCLqtrYzqi7I/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1316382635643375636/05c9ed7ca2a2966230e2ae46aaad28f1.png",
-                        "width": 734,
-                        "height": 734,
-                        "content_type": "image/png",
-                        "placeholder": "kygKFwR0Rnj8pGp3asmIxGZct5UIWZgA",
-                        "placeholder_version": 1,
-                        "flags": 0
-                    },
-                    "flags": 0,
-                    "color": 15158332,
-                    "timestamp": "2025-08-22T00:34:44.914000+00:00",
-                    "type": "rich",
-                    "description": "Member: <@1316382635643375636> (`1316382635643375636`)\nRoles: <@&1376309326896955412>",
-                    "title": "\u2796 Roles Removed"
-                }
-            ]
-        },
-        {
-            "author_id": 1125456177820610670,
-            "author_name": "XXXX#5063",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
-            "is_bot": true,
-            "content": "",
-            "created_at": "2025-08-22T00:30:48.066000+00:00",
-            "is_webhook": false,
-            "attachments": [],
-            "embeds": [
-                {
-                    "thumbnail": {
-                        "url": "https://cdn.discordapp.com/avatars/1316382635643375636/05c9ed7ca2a2966230e2ae46aaad28f1.png?size=1024",
-                        "proxy_url": "https://images-ext-1.discordapp.net/external/kSk_D_Nkp9fQJMUXJY9x_nO5SAZPreVCCLqtrYzqi7I/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1316382635643375636/05c9ed7ca2a2966230e2ae46aaad28f1.png",
-                        "width": 734,
-                        "height": 734,
-                        "content_type": "image/png",
-                        "placeholder": "kygKFwR0Rnj8pGp3asmIxGZct5UIWZgA",
-                        "placeholder_version": 1,
-                        "flags": 0
-                    },
-                    "flags": 0,
-                    "color": 15158332,
-                    "timestamp": "2025-08-22T00:30:47.124000+00:00",
-                    "type": "rich",
-                    "description": "Member: <@1316382635643375636> (`1316382635643375636`)\nRoles: <@&1376309326896955412>",
-                    "title": "\u2796 Roles Removed"
-                }
-            ]
-        },
-        {
-            "author_id": 1125456177820610670,
-            "author_name": "XXXX#5063",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
-            "is_bot": true,
-            "content": "",
-            "created_at": "2025-08-20T16:42:51.813000+00:00",
-            "is_webhook": false,
-            "attachments": [],
-            "embeds": [
-                {
-                    "thumbnail": {
-                        "url": "https://cdn.discordapp.com/avatars/1316382635643375636/05c9ed7ca2a2966230e2ae46aaad28f1.png?size=1024",
-                        "proxy_url": "https://images-ext-1.discordapp.net/external/kSk_D_Nkp9fQJMUXJY9x_nO5SAZPreVCCLqtrYzqi7I/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1316382635643375636/05c9ed7ca2a2966230e2ae46aaad28f1.png",
-                        "width": 734,
-                        "height": 734,
-                        "content_type": "image/png",
-                        "placeholder": "kygKFwR0Rnj8pGp3asmIxGZct5UIWZgA",
-                        "placeholder_version": 1,
-                        "flags": 0
-                    },
-                    "flags": 0,
-                    "color": 15158332,
-                    "timestamp": "2025-08-20T16:42:50.807000+00:00",
-                    "type": "rich",
-                    "description": "Member: <@1316382635643375636> (`1316382635643375636`)\nRoles: <@&1383178290533105784>",
-                    "title": "\u2796 Roles Removed"
-                }
-            ]
-        },
-        {
-            "author_id": 1125456177820610670,
-            "author_name": "XXXX#5063",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
-            "is_bot": true,
-            "content": "",
-            "created_at": "2025-08-18T22:24:17.208000+00:00",
-            "is_webhook": false,
-            "attachments": [],
-            "embeds": [
-                {
-                    "thumbnail": {
-                        "url": "https://cdn.discordapp.com/avatars/1316382635643375636/05c9ed7ca2a2966230e2ae46aaad28f1.png?size=1024",
-                        "proxy_url": "https://images-ext-1.discordapp.net/external/kSk_D_Nkp9fQJMUXJY9x_nO5SAZPreVCCLqtrYzqi7I/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1316382635643375636/05c9ed7ca2a2966230e2ae46aaad28f1.png",
-                        "width": 734,
-                        "height": 734,
-                        "content_type": "image/png",
-                        "placeholder": "kygKFwR0Rnj8pGp3asmIxGZct5UIWZgA",
-                        "placeholder_version": 1,
-                        "flags": 0
-                    },
-                    "flags": 0,
-                    "color": 15158332,
-                    "timestamp": "2025-08-18T22:24:17.246000+00:00",
-                    "type": "rich",
-                    "description": "Member: <@1316382635643375636> (`1316382635643375636`)\nRoles: <@&1398858701049430026>",
-                    "title": "\u2796 Roles Removed"
-                }
-            ]
-        },
-        {
-            "author_id": 1125456177820610670,
-            "author_name": "XXXX#5063",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
-            "is_bot": true,
-            "content": "",
-            "created_at": "2025-08-18T20:53:12.015000+00:00",
-            "is_webhook": false,
-            "attachments": [],
-            "embeds": [
-                {
-                    "thumbnail": {
-                        "url": "https://cdn.discordapp.com/avatars/1103449770325971074/147032442fa33c6f811bbac6b0800a65.png?size=1024",
-                        "proxy_url": "https://images-ext-1.discordapp.net/external/BdeqX4ybC9koLXR1q3iU2GyHpepD38H1fGwLBHi_3JQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1103449770325971074/147032442fa33c6f811bbac6b0800a65.png",
-                        "width": 376,
-                        "height": 376,
-                        "content_type": "image/png",
-                        "placeholder": "iigOHwgHmIh3eIdzioh4eIh4d3A4B4cD",
-                        "placeholder_version": 1,
-                        "flags": 0
-                    },
-                    "flags": 0,
-                    "color": 15158332,
-                    "timestamp": "2025-08-18T20:53:11.849000+00:00",
-                    "type": "rich",
-                    "description": "Member: <@1103449770325971074> (`1103449770325971074`)\nRoles: <@&1398858701049430026>",
-                    "title": "\u2796 Roles Removed"
                 }
             ]
         }
