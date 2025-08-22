@@ -55,5 +55,107 @@
             "attachments": [],
             "embeds": []
         }
+    ],
+    "1398448008143573002": [
+        {
+            "author_id": 1125456177820610670,
+            "author_name": "XXXX#5063",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
+            "is_bot": true,
+            "content": "",
+            "created_at": "2025-08-22T00:30:46.218000+00:00",
+            "is_webhook": false,
+            "attachments": [],
+            "embeds": [
+                {
+                    "flags": 0,
+                    "color": 15158332,
+                    "timestamp": "2025-08-22T00:30:45.145000+00:00",
+                    "type": "rich",
+                    "description": "Name: chat-cmd\nType: Text\nID: `1381991395388162049`\nCategory: Text Channels",
+                    "title": "\ud83d\udce2 Channel Deleted"
+                }
+            ]
+        },
+        {
+            "author_id": 1125456177820610670,
+            "author_name": "XXXX#5063",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
+            "is_bot": true,
+            "content": "",
+            "created_at": "2025-08-19T19:17:04.771000+00:00",
+            "is_webhook": false,
+            "attachments": [],
+            "embeds": [
+                {
+                    "flags": 0,
+                    "color": 15158332,
+                    "timestamp": "2025-08-19T19:17:03.828000+00:00",
+                    "type": "rich",
+                    "description": "Name: Himiko \ud80c\udda9\u2661\ud80c\uddaa's Room \ud83d\udc79\nType: Voice\nID: `1407443201719013396`\nCategory: \ud80c\udc83 \u08ea\u02d6\ufe55\ud83c\udf7b\u30fbonetap",
+                    "title": "\ud83d\udce2 Channel Deleted"
+                }
+            ]
+        },
+        {
+            "author_id": 1125456177820610670,
+            "author_name": "XXXX#5063",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
+            "is_bot": true,
+            "content": "",
+            "created_at": "2025-08-18T17:58:17.016000+00:00",
+            "is_webhook": false,
+            "attachments": [],
+            "embeds": [
+                {
+                    "flags": 0,
+                    "color": 15158332,
+                    "timestamp": "2025-08-18T17:58:16.687000+00:00",
+                    "type": "rich",
+                    "description": "Name: advanced-logs-data\nType: Text\nID: `1407058776187469927`\nCategory: Logs",
+                    "title": "\ud83d\udce2 Channel Deleted"
+                }
+            ]
+        },
+        {
+            "author_id": 1125456177820610670,
+            "author_name": "XXXX#5063",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
+            "is_bot": true,
+            "content": "",
+            "created_at": "2025-08-18T17:39:08.101000+00:00",
+            "is_webhook": false,
+            "attachments": [],
+            "embeds": [
+                {
+                    "flags": 0,
+                    "color": 15158332,
+                    "timestamp": "2025-08-18T17:39:07.756000+00:00",
+                    "type": "rich",
+                    "description": "Name: messageedit\nType: Text\nID: `1398447975243583620`\nCategory: Logs",
+                    "title": "\ud83d\udce2 Channel Deleted"
+                }
+            ]
+        },
+        {
+            "author_id": 1125456177820610670,
+            "author_name": "XXXX#5063",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1125456177820610670/246b8f11c6a88a96af8c26b91df78057.png?size=1024",
+            "is_bot": true,
+            "content": "",
+            "created_at": "2025-08-18T17:39:05.235000+00:00",
+            "is_webhook": false,
+            "attachments": [],
+            "embeds": [
+                {
+                    "flags": 0,
+                    "color": 15158332,
+                    "timestamp": "2025-08-18T17:39:04.899000+00:00",
+                    "type": "rich",
+                    "description": "Name: voicedisconnect\nType: Text\nID: `1398447950446854234`\nCategory: Logs",
+                    "title": "\ud83d\udce2 Channel Deleted"
+                }
+            ]
+        }
     ]
 }
