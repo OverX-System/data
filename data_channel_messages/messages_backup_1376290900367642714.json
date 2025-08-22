@@ -517,6 +517,74 @@
     ],
     "1408247994083446784": [
         {
+            "author_id": 1408248028342784061,
+            "author_name": "HIMKKO#0000#0000",
+            "author_avatar": null,
+            "is_bot": true,
+            "content": "",
+            "created_at": "2025-08-22T00:34:54.140000+00:00",
+            "is_webhook": false,
+            "attachments": [],
+            "embeds": [
+                {
+                    "image": {
+                        "url": "https://images-ext-1.discordapp.net/external/k_bE4qK1tX_nlxcmekRD2PAkvkgyS78x48ZXvkqWqi4/https/i.pinimg.com/originals/17/43/59/174359d6c7e31330affd9322a828e20b.gif",
+                        "proxy_url": "https://images-ext-1.discordapp.net/external/QKIHIe9PgulCMxe7yZl2cv1jtlk5TtLC37-X2_PMTfY/https/images-ext-1.discordapp.net/external/k_bE4qK1tX_nlxcmekRD2PAkvkgyS78x48ZXvkqWqi4/https/i.pinimg.com/originals/17/43/59/174359d6c7e31330affd9322a828e20b.gif",
+                        "width": 498,
+                        "height": 238,
+                        "content_type": "image/gif",
+                        "placeholder": "0AcWA4AHuHd3iGiX93iHcIg=",
+                        "placeholder_version": 1,
+                        "flags": 32
+                    },
+                    "author": {
+                        "name": "\ud835\udc69\ud835\udc93\ud835\udc8a\ud835\udc88\ud835\udc89\ud835\udc95 \ud835\udc74\ud835\udc90\ud835\udc90\ud835\udc75 \u2728",
+                        "url": "https://discord.gg/FDHqTsFtB4",
+                        "icon_url": "https://cdn.discordapp.com/attachments/1324404209701097472/1355331193511481516/a_c467fce42e0f56de095177f560503d16.gif?ex=68a90509&is=68a7b389&hm=4af557c780928d71f68c6d2f333bab00f87b3010fe92c5edf73794d96d34f740&",
+                        "proxy_icon_url": "https://media.discordapp.net/attachments/1324404209701097472/1355331193511481516/a_c467fce42e0f56de095177f560503d16.gif?ex=68a90509&is=68a7b389&hm=4af557c780928d71f68c6d2f333bab00f87b3010fe92c5edf73794d96d34f740&"
+                    },
+                    "flags": 0,
+                    "type": "rich"
+                },
+                {
+                    "image": {
+                        "url": "https://www.einerd.com/wp-content/uploads/2024/12/solo-leveling.jpg",
+                        "proxy_url": "https://images-ext-1.discordapp.net/external/GZmEVvhBug48JGztktjCSkHvtj3bwrjD6W7CgudlLTg/https/www.einerd.com/wp-content/uploads/2024/12/solo-leveling.jpg",
+                        "width": 890,
+                        "height": 606,
+                        "content_type": "image/jpeg",
+                        "placeholder": "FwcSDYJ/damMmHeKmZaHaK65X9DH",
+                        "placeholder_version": 1,
+                        "flags": 0
+                    },
+                    "flags": 0,
+                    "type": "rich",
+                    "description": ":blackdragon:\u30fb \ud835\udc70\ud835\udc8f\ud835\udc95\ud835\udc93\ud835\udc90\ud835\udc85\ud835\udc96\ud835\udc84\ud835\udc8a\ud835\udc8f\ud835\udc88 \ud835\udc95\ud835\udc89\ud835\udc86 \ud835\udc73\ud835\udc86\ud835\udc97\ud835\udc86\ud835\udc8d\ud835\udc94 \ud835\udc82\ud835\udc8f\ud835\udc85 \ud835\udc79\ud835\udc82\ud835\udc8f\ud835\udc8c\ud835\udc94 \ud835\udc7a\ud835\udc9a\ud835\udc94\ud835\udc95\ud835\udc86\ud835\udc8e \n\n:778415618151940158:\u30fbGreetings to the amazing members of the Bright MooN community. We are excited to announce a new feature that will make our server even more fun and interactive \u2013 the Tier and Rank System.\n\n:5_:\u30fbStarting today, every message you send, every interaction you make, and every moment you spend on the server will contribute to your experience points (XP). The more XP you collect, the more you'll climb the ranks and unlock special roles and perks along the way.\n\n\n \u272f:1154204746975019119: `Level 100`\u23af\u25cf<@&1324403699715412000>\n:w_:\u30fbAccess To Join Voice \u2060<#1156871493146386432> & Get A Special Role <@&1324403695311388672>\n\n \u272f:1154219764193959936:`Level 80`\u23af\u23af\u25cf<@&1324403703301668928>\n:w_:\u30fbGet Role <@&1324403704308437043>\n\n \u272f:1154219751745265706:`Level 60`\u23af\u23af\u25cf<@&1324403704899829872>\n:w_:\u30fb Get Role<@&1324403720208912517>\n\n \u272f:1154219745822900255:`Level 40`\u23af\u23af\u25cf <@&1324403707311296516> + <@&1324403701099790519>\n:w_:\u30fbGet Role <@&1324403701099790519> + <@&1324403718468272169>\n\n \u272f:1154219739640512625:`Level 20`\u23af\u23af\u25cf<@&1324403708804464640>\n:w_:\u30fbGet Role <@&1324403715293315236> To join all rooms in the Games category :778415618151940158:"
+                },
+                {
+                    "footer": {
+                        "text": "\ud835\udc69\ud835\udc93\ud835\udc8a\ud835\udc88\ud835\udc89\ud835\udc95 \ud835\udc74\ud835\udc90\ud835\udc90\ud835\udc75 \u2728",
+                        "icon_url": "https://cdn.discordapp.com/attachments/1324404209701097472/1355331193511481516/a_c467fce42e0f56de095177f560503d16.gif?ex=68a90509&is=68a7b389&hm=4af557c780928d71f68c6d2f333bab00f87b3010fe92c5edf73794d96d34f740&",
+                        "proxy_icon_url": "https://media.discordapp.net/attachments/1324404209701097472/1355331193511481516/a_c467fce42e0f56de095177f560503d16.gif?ex=68a90509&is=68a7b389&hm=4af557c780928d71f68c6d2f333bab00f87b3010fe92c5edf73794d96d34f740&"
+                    },
+                    "image": {
+                        "url": "https://i.imgur.com/5DfEoM4.gif",
+                        "proxy_url": "https://images-ext-1.discordapp.net/external/lG071wYs6ob4sb9deZ4OF-n_QylRizj72KElMFEHbbs/https/i.imgur.com/5DfEoM4.gif",
+                        "width": 1024,
+                        "height": 576,
+                        "content_type": "image/jpeg",
+                        "placeholder": "2pUNLIw3Zoh/hodzh4SIgIkKmA==",
+                        "placeholder_version": 1,
+                        "flags": 0
+                    },
+                    "flags": 0,
+                    "timestamp": "2025-04-01T00:00:00+00:00",
+                    "type": "rich",
+                    "description": "\u251c\u30fbChat XP Roles \n\n \u272f:1154204756038926397:`Level 100`\u23af\u25cf <@&1324403706560516218> \n:channel: Access To Join :0_: Voice \u2060  <#1324404248183832656>\n\n \u272f:1154204626388791426:`Level 80`\u23af\u23af\u25cf <@&1324403709899444275> \n:channel:  Access To Hide And Show Your One Tap\n\n \u272f:1154204618050506774: `Level 60`\u23af\u23af\u25cf <@&1324403710977249290> \n:channel:  Access To Send Pictures Or Videos In Chat Discord\n\n \u272f:1154204626388791426: `Level 40`\u23af\u23af\u25cf<@&1324403711828561930> \n:channel:  Access To Send Link In Chat Discord\n\n \u272f:1154219724184486018: `Level 20`\u23af\u23af\u25cf<@&1324403712923271188> \n:channel:  Video & Live VC Permissions\n\n \u272f:1154204643530907698:`Level 10`\u23af\u23af\u25cf <@&1324403713997275268> \n:channel: Change Nickname Permission\n\n:778415618151940158: Use `/rank` or `r` to view your level, or the leaderboard with `/top` or `t`\nMore perks coming soon to Levels :0_:"
+                }
+            ]
+        },
+        {
             "author_id": 1408248025352241263,
             "author_name": "x__max#0000",
             "author_avatar": "https://cdn.discordapp.com/avatars/1408248025352241263/147032442fa33c6f811bbac6b0800a65.png?size=1024",
