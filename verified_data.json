@@ -8,5 +8,15 @@
         "created_at": 1755625866.109138,
         "welcome_embed": null,
         "welcome_embed_json": null
+    },
+    "1426189499376865393": {
+        "role_verificator": 1426190745248731166,
+        "role_member": 1426192436010553496,
+        "role_female": 1426195903198265404,
+        "role_removed": 1426193568460046488,
+        "logs_channel": 1426205431906173081,
+        "created_at": 1760100752.563502,
+        "welcome_embed": null,
+        "welcome_embed_json": null
     }
 }
