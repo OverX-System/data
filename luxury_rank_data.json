@@ -23,7 +23,7 @@
     "1125456177820610670": {
         "xp": 0,
         "chat": 0,
-        "voice": 5874,
+        "voice": 5934,
         "bio": "",
         "last_msg": null,
         "created_at": "2025-08-20T18:27:59.619155",
@@ -31,7 +31,7 @@
             "1212061445274210384": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 5874,
+                "voice": 5934,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -39,7 +39,7 @@
             "1280534134145548390": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 5874,
+                "voice": 5934,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -47,7 +47,7 @@
             "1376290900367642714": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 5874,
+                "voice": 5934,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -55,7 +55,7 @@
             "1377105609077428234": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 5874,
+                "voice": 5934,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -63,7 +63,7 @@
             "1395230880779206656": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 5874,
+                "voice": 5934,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -71,7 +71,7 @@
             "1398769549997899906": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 5874,
+                "voice": 5934,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -79,7 +79,7 @@
             "1426189499376865393": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 1843,
+                "voice": 1903,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -113,7 +113,7 @@
     "1316382635643375636": {
         "xp": 30,
         "chat": 1,
-        "voice": 0,
+        "voice": 25,
         "bio": "",
         "last_msg": "2025-10-10T13:01:28.407568",
         "created_at": "2025-10-10T12:47:06.117103",
@@ -121,10 +121,58 @@
             "1426189499376865393": {
                 "xp": 30,
                 "chat": 1,
-                "voice": 0,
+                "voice": 25,
                 "badges": [],
                 "streak": 1,
                 "last_active": "2025-10-10T13:01:28.407568"
+            },
+            "1212061445274210384": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 25,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1280534134145548390": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 25,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1376290900367642714": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 25,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1377105609077428234": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 25,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1395230880779206656": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 25,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1398769549997899906": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 25,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
             }
         },
         "badges": [],
