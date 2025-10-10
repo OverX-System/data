@@ -44,5 +44,13 @@
             ],
             "attachments": []
         }
+    },
+    "1426189499376865393": {
+        "role_hammer": 1426190745248731166,
+        "role_jailed": 1426190788186079234,
+        "logs_channel": 1426189500811575418,
+        "created_at": 1760097207.166327,
+        "jail_embed": null,
+        "jail_embed_json": null
     }
 }
