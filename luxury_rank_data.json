@@ -218,5 +218,26 @@
         "badges": [],
         "streak": 1,
         "last_active": "2025-10-24T02:51:25.247031"
+    },
+    "1128932173198676068": {
+        "xp": 0,
+        "chat": 0,
+        "voice": 1,
+        "bio": "",
+        "last_msg": null,
+        "created_at": "2025-10-25T10:39:01.833897",
+        "server": {
+            "1298016981231865908": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 1,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            }
+        },
+        "badges": [],
+        "streak": 0,
+        "last_active": null
     }
 }
