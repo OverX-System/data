@@ -12843,10 +12843,10 @@
         "streak": 0,
         "last_active": null
     },
-    "1390762028532236338": {
+    "1391126240815087727": {
         "xp": 0,
         "chat": 0,
-        "voice": 0,
+        "voice": 2,
         "bio": "",
         "last_msg": null,
         "created_at": "2025-10-25T10:42:50.531718",
@@ -13622,7 +13622,7 @@
             "1298016981231865908": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 220,
+                "voice": 226,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
