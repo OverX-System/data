@@ -222,7 +222,7 @@
     "1128932173198676068": {
         "xp": 0,
         "chat": 0,
-        "voice": 28,
+        "voice": 42,
         "bio": "",
         "last_msg": null,
         "created_at": "2025-10-25T10:39:01.833897",
@@ -230,7 +230,775 @@
             "1298016981231865908": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 28,
+                "voice": 42,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1198013022002761768": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262485758435000320": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1287471244173770772": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241498658885865522": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240351672421580973": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1323079874260500611": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1211788416447160390": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "939940606359269406": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1305242212996485281": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1354920214168469695": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1217677460192235580": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262488295141806252": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240377153896583188": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1398500522998366278": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241132015336554526": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1212061445274210384": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240369806209974312": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240358001299427369": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1350217342780706929": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1349467385878417500": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240370878555099207": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240371890896240650": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1198275653624152124": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241081018996232192": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1319042556822159441": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241138758712299661": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262486036030685196": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1253572030675288084": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240373073505550427": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1341643083023913046": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1391852955141017671": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1218211739024363550": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1232810025207070812": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1106278249757159508": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241454263646031892": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "934754996795355196": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241348490278469643": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1337813609132200028": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1261118119657734176": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1387921262054998098": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1218014438670598174": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1312867071540858890": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240363300525445120": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240363673776820337": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241083753237971045": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1191065532141666456": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240361052047409252": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1264550471243268149": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1216402922011889805": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1216900097699221575": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262487297744568454": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1258570038512844941": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262487130937102367": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241109281848164492": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240368524975800320": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262488502579367976": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241092447115804824": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241075461770186773": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1015173790155677807": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240374154771955856": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1252953596098777139": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1224037111452143676": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1431398427769569503": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241069866140565687": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241107291923550238": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1284829966286065854": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1214627022584938516": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241115744255606875": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241095427307344012": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1253158296727191614": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1223647720544276611": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1355385393377448047": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1299524992010162206": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240359227277447208": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1409002400177721476": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1389010301198008450": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1349184681714778203": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241098863645954189": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241054177581600940": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241104034790768690": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241088996663361536": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1250534181830660186": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1247715984081551371": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241094480241885274": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241812067107995850": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1305065958829719622": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240378094997602345": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240362537501982750": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1218854414308347974": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1237718819741499492": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240375265675313212": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1286199381514653770": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1251892643022110781": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1171834720896700416": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241079213532905615": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262486836622659614": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 14,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -243,7 +1011,7 @@
     "1390792052819890206": {
         "xp": 0,
         "chat": 0,
-        "voice": 24,
+        "voice": 83,
         "bio": "",
         "last_msg": null,
         "created_at": "2025-10-25T10:39:01.833897",
@@ -251,7 +1019,775 @@
             "1298016981231865908": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 25,
+                "voice": 84,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1198013022002761768": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262485758435000320": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1287471244173770772": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241498658885865522": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240351672421580973": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1323079874260500611": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1211788416447160390": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "939940606359269406": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1305242212996485281": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1354920214168469695": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1217677460192235580": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262488295141806252": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240377153896583188": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1398500522998366278": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241132015336554526": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1212061445274210384": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240369806209974312": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240358001299427369": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1350217342780706929": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1349467385878417500": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240370878555099207": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240371890896240650": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1198275653624152124": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241081018996232192": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1319042556822159441": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241138758712299661": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262486036030685196": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1253572030675288084": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240373073505550427": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1341643083023913046": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1391852955141017671": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1218211739024363550": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1232810025207070812": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1106278249757159508": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241454263646031892": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "934754996795355196": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241348490278469643": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1337813609132200028": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1261118119657734176": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1387921262054998098": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1218014438670598174": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1312867071540858890": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240363300525445120": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240363673776820337": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241083753237971045": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1191065532141666456": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240361052047409252": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1264550471243268149": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1216402922011889805": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1216900097699221575": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262487297744568454": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1258570038512844941": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262487130937102367": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241109281848164492": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240368524975800320": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262488502579367976": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241092447115804824": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241075461770186773": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1015173790155677807": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240374154771955856": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1252953596098777139": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1224037111452143676": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1431398427769569503": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241069866140565687": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241107291923550238": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1284829966286065854": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1214627022584938516": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241115744255606875": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241095427307344012": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1253158296727191614": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1223647720544276611": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1355385393377448047": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1299524992010162206": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240359227277447208": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1409002400177721476": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1389010301198008450": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1349184681714778203": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241098863645954189": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241054177581600940": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241104034790768690": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241088996663361536": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1250534181830660186": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1247715984081551371": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241094480241885274": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241812067107995850": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1305065958829719622": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240378094997602345": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240362537501982750": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1218854414308347974": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1237718819741499492": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1240375265675313212": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1286199381514653770": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1251892643022110781": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1171834720896700416": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1241079213532905615": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
+                "badges": [],
+                "streak": 0,
+                "last_active": null
+            },
+            "1262486836622659614": {
+                "xp": 0,
+                "chat": 0,
+                "voice": 59,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -264,7 +1800,7 @@
     "1390763478129573949": {
         "xp": 0,
         "chat": 0,
-        "voice": 51,
+        "voice": 111,
         "bio": "",
         "last_msg": null,
         "created_at": "2025-10-25T10:39:01.833897",
@@ -272,7 +1808,7 @@
             "1298016981231865908": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 156,
+                "voice": 216,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -280,7 +1816,7 @@
             "1198013022002761768": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -288,7 +1824,7 @@
             "1262485758435000320": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -296,7 +1832,7 @@
             "1287471244173770772": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -304,7 +1840,7 @@
             "1241498658885865522": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -312,7 +1848,7 @@
             "1240351672421580973": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -320,7 +1856,7 @@
             "1323079874260500611": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -328,7 +1864,7 @@
             "1211788416447160390": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -336,7 +1872,7 @@
             "939940606359269406": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -344,7 +1880,7 @@
             "1305242212996485281": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -352,7 +1888,7 @@
             "1354920214168469695": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -360,7 +1896,7 @@
             "1217677460192235580": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -368,7 +1904,7 @@
             "1262488295141806252": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -376,7 +1912,7 @@
             "1240377153896583188": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -384,7 +1920,7 @@
             "1398500522998366278": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -392,7 +1928,7 @@
             "1241132015336554526": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -400,7 +1936,7 @@
             "1212061445274210384": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -408,7 +1944,7 @@
             "1240369806209974312": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -416,7 +1952,7 @@
             "1240358001299427369": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -424,7 +1960,7 @@
             "1350217342780706929": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -432,7 +1968,7 @@
             "1349467385878417500": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -440,7 +1976,7 @@
             "1240370878555099207": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -448,7 +1984,7 @@
             "1240371890896240650": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -456,7 +1992,7 @@
             "1198275653624152124": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -464,7 +2000,7 @@
             "1241081018996232192": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -472,7 +2008,7 @@
             "1319042556822159441": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -480,7 +2016,7 @@
             "1241138758712299661": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -488,7 +2024,7 @@
             "1262486036030685196": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -496,7 +2032,7 @@
             "1253572030675288084": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -504,7 +2040,7 @@
             "1240373073505550427": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -512,7 +2048,7 @@
             "1341643083023913046": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -520,7 +2056,7 @@
             "1391852955141017671": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -528,7 +2064,7 @@
             "1218211739024363550": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -536,7 +2072,7 @@
             "1232810025207070812": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -544,7 +2080,7 @@
             "1106278249757159508": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -552,7 +2088,7 @@
             "1241454263646031892": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -560,7 +2096,7 @@
             "934754996795355196": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -568,7 +2104,7 @@
             "1241348490278469643": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -576,7 +2112,7 @@
             "1337813609132200028": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -584,7 +2120,7 @@
             "1261118119657734176": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -592,7 +2128,7 @@
             "1387921262054998098": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -600,7 +2136,7 @@
             "1218014438670598174": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -608,7 +2144,7 @@
             "1312867071540858890": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -616,7 +2152,7 @@
             "1240363300525445120": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -624,7 +2160,7 @@
             "1240363673776820337": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -632,7 +2168,7 @@
             "1241083753237971045": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -640,7 +2176,7 @@
             "1191065532141666456": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -648,7 +2184,7 @@
             "1240361052047409252": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -656,7 +2192,7 @@
             "1264550471243268149": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -664,7 +2200,7 @@
             "1216402922011889805": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -672,7 +2208,7 @@
             "1216900097699221575": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -680,7 +2216,7 @@
             "1262487297744568454": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -688,7 +2224,7 @@
             "1258570038512844941": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -696,7 +2232,7 @@
             "1262487130937102367": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -704,7 +2240,7 @@
             "1241109281848164492": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -712,7 +2248,7 @@
             "1240368524975800320": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -720,7 +2256,7 @@
             "1262488502579367976": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -728,7 +2264,7 @@
             "1241092447115804824": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -736,7 +2272,7 @@
             "1241075461770186773": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -744,7 +2280,7 @@
             "1015173790155677807": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -752,7 +2288,7 @@
             "1240374154771955856": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -760,7 +2296,7 @@
             "1252953596098777139": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -768,7 +2304,7 @@
             "1224037111452143676": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -776,7 +2312,7 @@
             "1431398427769569503": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -784,7 +2320,7 @@
             "1241069866140565687": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -792,7 +2328,7 @@
             "1241107291923550238": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -800,7 +2336,7 @@
             "1284829966286065854": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -808,7 +2344,7 @@
             "1214627022584938516": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -816,7 +2352,7 @@
             "1241115744255606875": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -824,7 +2360,7 @@
             "1241095427307344012": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -832,7 +2368,7 @@
             "1253158296727191614": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -840,7 +2376,7 @@
             "1223647720544276611": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -848,7 +2384,7 @@
             "1355385393377448047": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -856,7 +2392,7 @@
             "1299524992010162206": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -864,7 +2400,7 @@
             "1240359227277447208": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -872,7 +2408,7 @@
             "1409002400177721476": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -880,7 +2416,7 @@
             "1389010301198008450": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -888,7 +2424,7 @@
             "1349184681714778203": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -896,7 +2432,7 @@
             "1241098863645954189": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -904,7 +2440,7 @@
             "1241054177581600940": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -912,7 +2448,7 @@
             "1241104034790768690": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -920,7 +2456,7 @@
             "1241088996663361536": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -928,7 +2464,7 @@
             "1250534181830660186": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -936,7 +2472,7 @@
             "1247715984081551371": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -944,7 +2480,7 @@
             "1241094480241885274": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -952,7 +2488,7 @@
             "1241812067107995850": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -960,7 +2496,7 @@
             "1305065958829719622": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -968,7 +2504,7 @@
             "1240378094997602345": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -976,7 +2512,7 @@
             "1240362537501982750": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -984,7 +2520,7 @@
             "1218854414308347974": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -992,7 +2528,7 @@
             "1237718819741499492": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1000,7 +2536,7 @@
             "1240375265675313212": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1008,7 +2544,7 @@
             "1286199381514653770": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1016,7 +2552,7 @@
             "1251892643022110781": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1024,7 +2560,7 @@
             "1171834720896700416": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1032,7 +2568,7 @@
             "1241079213532905615": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1040,7 +2576,7 @@
             "1262486836622659614": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1053,7 +2589,7 @@
     "1391129535256461373": {
         "xp": 0,
         "chat": 0,
-        "voice": 30,
+        "voice": 90,
         "bio": "",
         "last_msg": null,
         "created_at": "2025-10-25T10:39:01.833897",
@@ -1061,7 +2597,7 @@
             "1298016981231865908": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 156,
+                "voice": 216,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1069,7 +2605,7 @@
             "1198013022002761768": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1077,7 +2613,7 @@
             "1262485758435000320": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1085,7 +2621,7 @@
             "1287471244173770772": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1093,7 +2629,7 @@
             "1241498658885865522": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1101,7 +2637,7 @@
             "1240351672421580973": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1109,7 +2645,7 @@
             "1323079874260500611": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1117,7 +2653,7 @@
             "1211788416447160390": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1125,7 +2661,7 @@
             "939940606359269406": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1133,7 +2669,7 @@
             "1305242212996485281": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1141,7 +2677,7 @@
             "1354920214168469695": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1149,7 +2685,7 @@
             "1217677460192235580": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1157,7 +2693,7 @@
             "1262488295141806252": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1165,7 +2701,7 @@
             "1240377153896583188": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1173,7 +2709,7 @@
             "1398500522998366278": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1181,7 +2717,7 @@
             "1241132015336554526": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1189,7 +2725,7 @@
             "1212061445274210384": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1197,7 +2733,7 @@
             "1240369806209974312": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1205,7 +2741,7 @@
             "1240358001299427369": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1213,7 +2749,7 @@
             "1350217342780706929": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1221,7 +2757,7 @@
             "1349467385878417500": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1229,7 +2765,7 @@
             "1240370878555099207": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1237,7 +2773,7 @@
             "1240371890896240650": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1245,7 +2781,7 @@
             "1198275653624152124": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1253,7 +2789,7 @@
             "1241081018996232192": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1261,7 +2797,7 @@
             "1319042556822159441": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1269,7 +2805,7 @@
             "1241138758712299661": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1277,7 +2813,7 @@
             "1262486036030685196": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1285,7 +2821,7 @@
             "1253572030675288084": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1293,7 +2829,7 @@
             "1240373073505550427": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1301,7 +2837,7 @@
             "1341643083023913046": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1309,7 +2845,7 @@
             "1391852955141017671": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1317,7 +2853,7 @@
             "1218211739024363550": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1325,7 +2861,7 @@
             "1232810025207070812": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1333,7 +2869,7 @@
             "1106278249757159508": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1341,7 +2877,7 @@
             "1241454263646031892": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1349,7 +2885,7 @@
             "934754996795355196": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1357,7 +2893,7 @@
             "1241348490278469643": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1365,7 +2901,7 @@
             "1337813609132200028": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1373,7 +2909,7 @@
             "1261118119657734176": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1381,7 +2917,7 @@
             "1387921262054998098": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1389,7 +2925,7 @@
             "1218014438670598174": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1397,7 +2933,7 @@
             "1312867071540858890": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1405,7 +2941,7 @@
             "1240363300525445120": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1413,7 +2949,7 @@
             "1240363673776820337": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1421,7 +2957,7 @@
             "1241083753237971045": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1429,7 +2965,7 @@
             "1191065532141666456": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1437,7 +2973,7 @@
             "1240361052047409252": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1445,7 +2981,7 @@
             "1264550471243268149": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1453,7 +2989,7 @@
             "1216402922011889805": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1461,7 +2997,7 @@
             "1216900097699221575": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1469,7 +3005,7 @@
             "1262487297744568454": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1477,7 +3013,7 @@
             "1258570038512844941": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1485,7 +3021,7 @@
             "1262487130937102367": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1493,7 +3029,7 @@
             "1241109281848164492": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1501,7 +3037,7 @@
             "1240368524975800320": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1509,7 +3045,7 @@
             "1262488502579367976": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1517,7 +3053,7 @@
             "1241092447115804824": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1525,7 +3061,7 @@
             "1241075461770186773": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1533,7 +3069,7 @@
             "1015173790155677807": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1541,7 +3077,7 @@
             "1240374154771955856": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1549,7 +3085,7 @@
             "1252953596098777139": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1557,7 +3093,7 @@
             "1224037111452143676": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1565,7 +3101,7 @@
             "1431398427769569503": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1573,7 +3109,7 @@
             "1241069866140565687": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1581,7 +3117,7 @@
             "1241107291923550238": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1589,7 +3125,7 @@
             "1284829966286065854": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1597,7 +3133,7 @@
             "1214627022584938516": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1605,7 +3141,7 @@
             "1241115744255606875": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1613,7 +3149,7 @@
             "1241095427307344012": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1621,7 +3157,7 @@
             "1253158296727191614": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1629,7 +3165,7 @@
             "1223647720544276611": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1637,7 +3173,7 @@
             "1355385393377448047": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1645,7 +3181,7 @@
             "1299524992010162206": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1653,7 +3189,7 @@
             "1240359227277447208": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1661,7 +3197,7 @@
             "1409002400177721476": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1669,7 +3205,7 @@
             "1389010301198008450": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1677,7 +3213,7 @@
             "1349184681714778203": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1685,7 +3221,7 @@
             "1241098863645954189": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1693,7 +3229,7 @@
             "1241054177581600940": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1701,7 +3237,7 @@
             "1241104034790768690": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1709,7 +3245,7 @@
             "1241088996663361536": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1717,7 +3253,7 @@
             "1250534181830660186": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1725,7 +3261,7 @@
             "1247715984081551371": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1733,7 +3269,7 @@
             "1241094480241885274": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1741,7 +3277,7 @@
             "1241812067107995850": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1749,7 +3285,7 @@
             "1305065958829719622": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1757,7 +3293,7 @@
             "1240378094997602345": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1765,7 +3301,7 @@
             "1240362537501982750": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1773,7 +3309,7 @@
             "1218854414308347974": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1781,7 +3317,7 @@
             "1237718819741499492": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1789,7 +3325,7 @@
             "1240375265675313212": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1797,7 +3333,7 @@
             "1286199381514653770": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1805,7 +3341,7 @@
             "1251892643022110781": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1813,7 +3349,7 @@
             "1171834720896700416": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1821,7 +3357,7 @@
             "1241079213532905615": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1829,7 +3365,7 @@
             "1262486836622659614": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1842,7 +3378,7 @@
     "1391121566217277511": {
         "xp": 0,
         "chat": 0,
-        "voice": 20,
+        "voice": 80,
         "bio": "",
         "last_msg": null,
         "created_at": "2025-10-25T10:39:01.833897",
@@ -1850,7 +3386,7 @@
             "1298016981231865908": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 156,
+                "voice": 216,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1858,7 +3394,7 @@
             "1198013022002761768": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1866,7 +3402,7 @@
             "1262485758435000320": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1874,7 +3410,7 @@
             "1287471244173770772": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1882,7 +3418,7 @@
             "1241498658885865522": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1890,7 +3426,7 @@
             "1240351672421580973": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1898,7 +3434,7 @@
             "1323079874260500611": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1906,7 +3442,7 @@
             "1211788416447160390": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1914,7 +3450,7 @@
             "939940606359269406": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1922,7 +3458,7 @@
             "1305242212996485281": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1930,7 +3466,7 @@
             "1354920214168469695": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1938,7 +3474,7 @@
             "1217677460192235580": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1946,7 +3482,7 @@
             "1262488295141806252": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1954,7 +3490,7 @@
             "1240377153896583188": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1962,7 +3498,7 @@
             "1398500522998366278": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1970,7 +3506,7 @@
             "1241132015336554526": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1978,7 +3514,7 @@
             "1212061445274210384": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1986,7 +3522,7 @@
             "1240369806209974312": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -1994,7 +3530,7 @@
             "1240358001299427369": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2002,7 +3538,7 @@
             "1350217342780706929": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2010,7 +3546,7 @@
             "1349467385878417500": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2018,7 +3554,7 @@
             "1240370878555099207": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2026,7 +3562,7 @@
             "1240371890896240650": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2034,7 +3570,7 @@
             "1198275653624152124": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2042,7 +3578,7 @@
             "1241081018996232192": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2050,7 +3586,7 @@
             "1319042556822159441": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2058,7 +3594,7 @@
             "1241138758712299661": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2066,7 +3602,7 @@
             "1262486036030685196": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2074,7 +3610,7 @@
             "1253572030675288084": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2082,7 +3618,7 @@
             "1240373073505550427": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2090,7 +3626,7 @@
             "1341643083023913046": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2098,7 +3634,7 @@
             "1391852955141017671": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2106,7 +3642,7 @@
             "1218211739024363550": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2114,7 +3650,7 @@
             "1232810025207070812": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2122,7 +3658,7 @@
             "1106278249757159508": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2130,7 +3666,7 @@
             "1241454263646031892": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2138,7 +3674,7 @@
             "934754996795355196": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2146,7 +3682,7 @@
             "1241348490278469643": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2154,7 +3690,7 @@
             "1337813609132200028": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2162,7 +3698,7 @@
             "1261118119657734176": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2170,7 +3706,7 @@
             "1387921262054998098": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2178,7 +3714,7 @@
             "1218014438670598174": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2186,7 +3722,7 @@
             "1312867071540858890": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2194,7 +3730,7 @@
             "1240363300525445120": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2202,7 +3738,7 @@
             "1240363673776820337": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2210,7 +3746,7 @@
             "1241083753237971045": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2218,7 +3754,7 @@
             "1191065532141666456": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2226,7 +3762,7 @@
             "1240361052047409252": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2234,7 +3770,7 @@
             "1264550471243268149": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2242,7 +3778,7 @@
             "1216402922011889805": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2250,7 +3786,7 @@
             "1216900097699221575": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2258,7 +3794,7 @@
             "1262487297744568454": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2266,7 +3802,7 @@
             "1258570038512844941": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2274,7 +3810,7 @@
             "1262487130937102367": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2282,7 +3818,7 @@
             "1241109281848164492": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2290,7 +3826,7 @@
             "1240368524975800320": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2298,7 +3834,7 @@
             "1262488502579367976": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2306,7 +3842,7 @@
             "1241092447115804824": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2314,7 +3850,7 @@
             "1241075461770186773": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2322,7 +3858,7 @@
             "1015173790155677807": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2330,7 +3866,7 @@
             "1240374154771955856": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2338,7 +3874,7 @@
             "1252953596098777139": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2346,7 +3882,7 @@
             "1224037111452143676": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2354,7 +3890,7 @@
             "1431398427769569503": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2362,7 +3898,7 @@
             "1241069866140565687": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2370,7 +3906,7 @@
             "1241107291923550238": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2378,7 +3914,7 @@
             "1284829966286065854": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2386,7 +3922,7 @@
             "1214627022584938516": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2394,7 +3930,7 @@
             "1241115744255606875": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2402,7 +3938,7 @@
             "1241095427307344012": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2410,7 +3946,7 @@
             "1253158296727191614": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2418,7 +3954,7 @@
             "1223647720544276611": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2426,7 +3962,7 @@
             "1355385393377448047": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2434,7 +3970,7 @@
             "1299524992010162206": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2442,7 +3978,7 @@
             "1240359227277447208": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2450,7 +3986,7 @@
             "1409002400177721476": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2458,7 +3994,7 @@
             "1389010301198008450": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2466,7 +4002,7 @@
             "1349184681714778203": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2474,7 +4010,7 @@
             "1241098863645954189": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2482,7 +4018,7 @@
             "1241054177581600940": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2490,7 +4026,7 @@
             "1241104034790768690": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2498,7 +4034,7 @@
             "1241088996663361536": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2506,7 +4042,7 @@
             "1250534181830660186": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2514,7 +4050,7 @@
             "1247715984081551371": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2522,7 +4058,7 @@
             "1241094480241885274": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2530,7 +4066,7 @@
             "1241812067107995850": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2538,7 +4074,7 @@
             "1305065958829719622": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2546,7 +4082,7 @@
             "1240378094997602345": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2554,7 +4090,7 @@
             "1240362537501982750": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2562,7 +4098,7 @@
             "1218854414308347974": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2570,7 +4106,7 @@
             "1237718819741499492": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2578,7 +4114,7 @@
             "1240375265675313212": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2586,7 +4122,7 @@
             "1286199381514653770": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2594,7 +4130,7 @@
             "1251892643022110781": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2602,7 +4138,7 @@
             "1171834720896700416": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2610,7 +4146,7 @@
             "1241079213532905615": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -2618,7 +4154,7 @@
             "1262486836622659614": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3420,7 +4956,7 @@
     "1128932570927730789": {
         "xp": 0,
         "chat": 0,
-        "voice": 15,
+        "voice": 75,
         "bio": "",
         "last_msg": null,
         "created_at": "2025-10-25T10:39:01.833897",
@@ -3428,7 +4964,7 @@
             "1298016981231865908": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 156,
+                "voice": 216,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3436,7 +4972,7 @@
             "1198013022002761768": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3444,7 +4980,7 @@
             "1262485758435000320": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3452,7 +4988,7 @@
             "1287471244173770772": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3460,7 +4996,7 @@
             "1241498658885865522": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3468,7 +5004,7 @@
             "1240351672421580973": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3476,7 +5012,7 @@
             "1323079874260500611": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3484,7 +5020,7 @@
             "1211788416447160390": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3492,7 +5028,7 @@
             "939940606359269406": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3500,7 +5036,7 @@
             "1305242212996485281": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3508,7 +5044,7 @@
             "1354920214168469695": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3516,7 +5052,7 @@
             "1217677460192235580": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3524,7 +5060,7 @@
             "1262488295141806252": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3532,7 +5068,7 @@
             "1240377153896583188": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3540,7 +5076,7 @@
             "1398500522998366278": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3548,7 +5084,7 @@
             "1241132015336554526": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3556,7 +5092,7 @@
             "1212061445274210384": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3564,7 +5100,7 @@
             "1240369806209974312": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3572,7 +5108,7 @@
             "1240358001299427369": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3580,7 +5116,7 @@
             "1350217342780706929": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3588,7 +5124,7 @@
             "1349467385878417500": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3596,7 +5132,7 @@
             "1240370878555099207": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3604,7 +5140,7 @@
             "1240371890896240650": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3612,7 +5148,7 @@
             "1198275653624152124": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3620,7 +5156,7 @@
             "1241081018996232192": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3628,7 +5164,7 @@
             "1319042556822159441": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3636,7 +5172,7 @@
             "1241138758712299661": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3644,7 +5180,7 @@
             "1262486036030685196": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3652,7 +5188,7 @@
             "1253572030675288084": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3660,7 +5196,7 @@
             "1240373073505550427": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3668,7 +5204,7 @@
             "1341643083023913046": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3676,7 +5212,7 @@
             "1391852955141017671": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3684,7 +5220,7 @@
             "1218211739024363550": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3692,7 +5228,7 @@
             "1232810025207070812": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3700,7 +5236,7 @@
             "1106278249757159508": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3708,7 +5244,7 @@
             "1241454263646031892": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3716,7 +5252,7 @@
             "934754996795355196": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3724,7 +5260,7 @@
             "1241348490278469643": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3732,7 +5268,7 @@
             "1337813609132200028": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3740,7 +5276,7 @@
             "1261118119657734176": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3748,7 +5284,7 @@
             "1387921262054998098": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3756,7 +5292,7 @@
             "1218014438670598174": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3764,7 +5300,7 @@
             "1312867071540858890": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3772,7 +5308,7 @@
             "1240363300525445120": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3780,7 +5316,7 @@
             "1240363673776820337": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3788,7 +5324,7 @@
             "1241083753237971045": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3796,7 +5332,7 @@
             "1191065532141666456": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3804,7 +5340,7 @@
             "1240361052047409252": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3812,7 +5348,7 @@
             "1264550471243268149": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3820,7 +5356,7 @@
             "1216402922011889805": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3828,7 +5364,7 @@
             "1216900097699221575": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3836,7 +5372,7 @@
             "1262487297744568454": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3844,7 +5380,7 @@
             "1258570038512844941": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3852,7 +5388,7 @@
             "1262487130937102367": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3860,7 +5396,7 @@
             "1241109281848164492": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3868,7 +5404,7 @@
             "1240368524975800320": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3876,7 +5412,7 @@
             "1262488502579367976": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3884,7 +5420,7 @@
             "1241092447115804824": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3892,7 +5428,7 @@
             "1241075461770186773": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3900,7 +5436,7 @@
             "1015173790155677807": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3908,7 +5444,7 @@
             "1240374154771955856": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3916,7 +5452,7 @@
             "1252953596098777139": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3924,7 +5460,7 @@
             "1224037111452143676": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3932,7 +5468,7 @@
             "1431398427769569503": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3940,7 +5476,7 @@
             "1241069866140565687": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3948,7 +5484,7 @@
             "1241107291923550238": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3956,7 +5492,7 @@
             "1284829966286065854": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3964,7 +5500,7 @@
             "1214627022584938516": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3972,7 +5508,7 @@
             "1241115744255606875": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3980,7 +5516,7 @@
             "1241095427307344012": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3988,7 +5524,7 @@
             "1253158296727191614": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -3996,7 +5532,7 @@
             "1223647720544276611": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4004,7 +5540,7 @@
             "1355385393377448047": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4012,7 +5548,7 @@
             "1299524992010162206": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4020,7 +5556,7 @@
             "1240359227277447208": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4028,7 +5564,7 @@
             "1409002400177721476": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4036,7 +5572,7 @@
             "1389010301198008450": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4044,7 +5580,7 @@
             "1349184681714778203": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4052,7 +5588,7 @@
             "1241098863645954189": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4060,7 +5596,7 @@
             "1241054177581600940": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4068,7 +5604,7 @@
             "1241104034790768690": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4076,7 +5612,7 @@
             "1241088996663361536": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4084,7 +5620,7 @@
             "1250534181830660186": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4092,7 +5628,7 @@
             "1247715984081551371": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4100,7 +5636,7 @@
             "1241094480241885274": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4108,7 +5644,7 @@
             "1241812067107995850": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4116,7 +5652,7 @@
             "1305065958829719622": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4124,7 +5660,7 @@
             "1240378094997602345": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4132,7 +5668,7 @@
             "1240362537501982750": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4140,7 +5676,7 @@
             "1218854414308347974": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4148,7 +5684,7 @@
             "1237718819741499492": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4156,7 +5692,7 @@
             "1240375265675313212": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4164,7 +5700,7 @@
             "1286199381514653770": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4172,7 +5708,7 @@
             "1251892643022110781": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4180,7 +5716,7 @@
             "1171834720896700416": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4188,7 +5724,7 @@
             "1241079213532905615": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
@@ -4196,7 +5732,7 @@
             "1262486836622659614": {
                 "xp": 0,
                 "chat": 0,
-                "voice": 131,
+                "voice": 191,
                 "badges": [],
                 "streak": 0,
                 "last_active": null
