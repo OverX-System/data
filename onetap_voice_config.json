@@ -10,8 +10,8 @@
         "reject_voice_id": 1431577744948592751
     },
     "1212061445274210384": {
-        "category_id": 1431753262973059102,
-        "voice_id": 1431753266097557575,
-        "reject_voice_id": null
+        "category_id": null,
+        "voice_id": null,
+        "reject_voice_id": 1212103897783734282
     }
 }
