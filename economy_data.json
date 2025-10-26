@@ -10,5 +10,11 @@
         "bank": 0,
         "last_daily": "2025-08-19",
         "last_work": ""
+    },
+    "1264693776320823309": {
+        "wallet": 200,
+        "bank": 0,
+        "last_daily": "",
+        "last_work": ""
     }
 }
